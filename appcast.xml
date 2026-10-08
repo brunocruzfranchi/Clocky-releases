@@ -3,6 +3,25 @@
     <channel>
         <title>Clocky</title>
         <item>
+            <title>0.4.0-preview.36</title>
+            <pubDate>Thu, 08 Oct 2026 18:02:56 -0300</pubDate>
+            <link>https://github.com/brunocruzfranchi/Clocky-releases</link>
+            <sparkle:channel>preview</sparkle:channel>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.4.0-preview.36</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Clocky 0.4.0
+
+- **Copy a proposal.** The panel's Copy row now has three choices: the times as before, the same as a question to send ("How about Tue, Oct 6 at 09:00 Miami · 10:00 Buenos Aires, for 30 min?"), or the next three times that suit everyone, as a list to choose from.
+- **A warning before the clocks change.** In the two weeks before one of your cities, or you, changes clocks and another does not, the panel says what the gap will become. Looking at a date beyond the change, it says why the gap is not the usual one.
+- **See what a busy block is.** Click one of your events on your bar, or the count under it, for its title, time and calendar.
+- **Send a time from another app.** Select text such as "3pm ET Thursday" anywhere, then choose Services › Show Time in Clocky.
+- **The menu-bar icon tells the time.** Its hands show your real time, and the time you are looking at while the panel is open. The date icon is now Clocky's own page. With "Show when I'm busy" on, the folded corner fills in during the ten minutes before your next event.
+- **Fixed: the icon did nothing when clicked** after Clocky had been started at login or by an update, until it was opened some other way.
+]]></description>
+            <enclosure url="https://github.com/brunocruzfranchi/Clocky-releases/releases/download/v0.4.0-preview.36/Clocky-0.4.0-preview.36.zip" length="6256379" type="application/octet-stream" sparkle:edSignature="FWmi/zN+gLY1nOSK+vTZq6zVPyr/X/OqvNh8pqLSm3tZPfOi2/MQPYv2XhXsJlOPVkhvRNhMuJmw1Xc5DCMWCw=="/>
+        </item>
+        <item>
             <title>0.4.0-preview.35</title>
             <pubDate>Thu, 08 Oct 2026 16:22:03 -0300</pubDate>
             <link>https://github.com/brunocruzfranchi/Clocky-releases</link>
