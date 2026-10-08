@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Clocky</title>
+        <item>
+            <title>0.3.0</title>
+            <pubDate>Thu, 08 Oct 2026 11:28:32 -0300</pubDate>
+            <link>https://github.com/brunocruzfranchi/Clocky-releases</link>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Clocky 0.3.0
+
+- **Paste a time as someone wrote it.** A field at the top of the panel reads "3pm ET Thursday", "tomorrow 10:30 Tokyo time" or "jueves 15hs" and moves every city there. Press Return, use the paste button, or press ⌘V with the panel open.
+- **Clocky updates itself.** It checks for a new version about once a day and offers it in the panel. Settings › General has the switch and a Check Now button.
+- **A lighter menu-bar icon**, drawn as an outline.
+- **An app icon that follows macOS 26's icon styles**: dark, tinted and clear.
+]]></description>
+            <enclosure url="https://github.com/brunocruzfranchi/Clocky-releases/releases/download/v0.3.0/Clocky-0.3.0.zip" length="6110197" type="application/octet-stream" sparkle:edSignature="P9ueX1xF9bq3hYvGifm0Sq23pczzdNvrQUHoFJSUPd4D3d0cvi2DD36Raz+eGXHLDtj+0odG1k7Q3hefdidCAA=="/>
+        </item>
+    </channel>
+</rss>
