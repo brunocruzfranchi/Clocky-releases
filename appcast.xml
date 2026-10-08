@@ -3,6 +3,20 @@
     <channel>
         <title>Clocky</title>
         <item>
+            <title>0.4.0-preview.34</title>
+            <pubDate>Thu, 08 Oct 2026 13:06:33 -0300</pubDate>
+            <link>https://github.com/brunocruzfranchi/Clocky-releases</link>
+            <sparkle:channel>preview</sparkle:channel>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>0.4.0-preview.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Clocky 0.4.0
+
+Notes for this version are written as it takes shape.
+]]></description>
+            <enclosure url="https://github.com/brunocruzfranchi/Clocky-releases/releases/download/v0.4.0-preview.34/Clocky-0.4.0-preview.34.zip" length="6115878" type="application/octet-stream" sparkle:edSignature="FqEYsyW+S5uPTn160zKtTwmmIXKj2F55E4cQCycVza8CytJOq4p4evwc/BsDgKnPUaYwMQESQShZxTiS03bHAA=="/>
+        </item>
+        <item>
             <title>0.3.2</title>
             <pubDate>Thu, 08 Oct 2026 13:04:05 -0300</pubDate>
             <link>https://github.com/brunocruzfranchi/Clocky-releases</link>
