@@ -3,6 +3,19 @@
     <channel>
         <title>Clocky</title>
         <item>
+            <title>0.3.1</title>
+            <pubDate>Thu, 08 Oct 2026 12:32:32 -0300</pubDate>
+            <link>https://github.com/brunocruzfranchi/Clocky-releases</link>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[## Clocky 0.3.1
+
+- **Settings › General fits its window.** With a mouse connected it showed a scroll bar; it no longer does.
+]]></description>
+            <enclosure url="https://github.com/brunocruzfranchi/Clocky-releases/releases/download/v0.3.1/Clocky-0.3.1.zip" length="6110185" type="application/octet-stream" sparkle:edSignature="zRC75v/cHM4Mr1DNEkKcsjiIIh48ZfhbkDuXT1udy3IWjUMN9WOKnW99vrwtsxQz8MuxN3lsQeADuhdS+kHEDQ=="/>
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Thu, 08 Oct 2026 11:28:32 -0300</pubDate>
             <link>https://github.com/brunocruzfranchi/Clocky-releases</link>
